@@ -1,11 +1,13 @@
-# google_map_search
+# Google Map Search
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-v2.10.0-blue.svg)](https://flutter.dev/)
 [![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-v3-green.svg)](https://developers.google.com/maps/documentation)
 
 This Flutter application demonstrates the integration of Google Maps and Google Places API to create a map-based application with search functionality.
 
+
 <img width="1133" alt="Screenshot 2024-05-18 at 2 05 28 PM" src="https://github.com/arthikrishh/Google-Map-with-Search/assets/116914004/207ded0a-2464-4185-97a6-5d881903d933">
+
 
 ## Overview
 
@@ -45,9 +47,11 @@ Before running the application, you need to obtain API keys for Google Maps and 
    - Follow the same steps as above and enable the Places API.
    - Add the API key to the Flutter application code where it's required.
 
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or create a pull request.
+
 
 ## Acknowledgements
 
@@ -56,6 +60,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 - [Google Place API for Dart](https://pub.dev/packages/google_place)
 - [Google Maps Web Services for Dart](https://pub.dev/packages/google_maps_webservice)
 - [Google Fonts for Flutter](https://pub.dev/packages/google_fonts)
+
 
 ## OUTPUT VIDEO 
 
