@@ -37,7 +37,7 @@ class _MapScreenState extends State<MapScreen> {
   Future<void> _searchPlaces() async {
     final p = await PlacesAutocomplete.show(
       context: context,
-      logo: Text(""),
+      logo: Text(" "),
       mode: Mode.overlay,
       apiKey: "YOUR_API_KEY_HERE",
       onError: (response) {
